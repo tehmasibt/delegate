@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\İş masası\Delegates\delegates.predicate\delegates.predicate\bin\Debug\net8.0\delegates.predicate.exe
+C:\Users\User\OneDrive\İş masası\Delegates\delegates.predicate\delegates.predicate\bin\Debug\net8.0\delegates.predicate.deps.json
+C:\Users\User\OneDrive\İş masası\Delegates\delegates.predicate\delegates.predicate\bin\Debug\net8.0\delegates.predicate.runtimeconfig.json
+C:\Users\User\OneDrive\İş masası\Delegates\delegates.predicate\delegates.predicate\bin\Debug\net8.0\delegates.predicate.dll
+C:\Users\User\OneDrive\İş masası\Delegates\delegates.predicate\delegates.predicate\bin\Debug\net8.0\delegates.predicate.pdb
+C:\Users\User\OneDrive\İş masası\Delegates\delegates.predicate\delegates.predicate\obj\Debug\net8.0\delegates.predicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\İş masası\Delegates\delegates.predicate\delegates.predicate\obj\Debug\net8.0\delegates.predicate.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\İş masası\Delegates\delegates.predicate\delegates.predicate\obj\Debug\net8.0\delegates.predicate.AssemblyInfo.cs
+C:\Users\User\OneDrive\İş masası\Delegates\delegates.predicate\delegates.predicate\obj\Debug\net8.0\delegates.predicate.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\İş masası\Delegates\delegates.predicate\delegates.predicate\obj\Debug\net8.0\delegates.predicate.dll
+C:\Users\User\OneDrive\İş masası\Delegates\delegates.predicate\delegates.predicate\obj\Debug\net8.0\refint\delegates.predicate.dll
+C:\Users\User\OneDrive\İş masası\Delegates\delegates.predicate\delegates.predicate\obj\Debug\net8.0\delegates.predicate.pdb
+C:\Users\User\OneDrive\İş masası\Delegates\delegates.predicate\delegates.predicate\obj\Debug\net8.0\delegates.predicate.genruntimeconfig.cache
+C:\Users\User\OneDrive\İş masası\Delegates\delegates.predicate\delegates.predicate\obj\Debug\net8.0\ref\delegates.predicate.dll
